@@ -34,3 +34,10 @@ h1{
     color: rgb(62, 83, 164);
     text-align: center;
 }
+h4{
+    color: blue;
+    text-decoration: underline;
+}
+section{
+    align-items: center;
+}
